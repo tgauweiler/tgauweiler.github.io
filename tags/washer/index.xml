@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Washer on tgauweiler</title>
+    <link>https://tgauweiler.github.io/tags/washer/</link>
+    <description>Recent content in Washer on tgauweiler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tgauweiler.github.io/tags/washer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WasherRepair</title>
+      <link>https://tgauweiler.github.io/posts/2018-08-03-washerrepair/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-08-03-washerrepair/</guid>
+      <description>Introduction The old miele hydromatic W701 washer was acting up and not spinning its barrel.
+Opening &amp;amp; Repair First i had to remove some screws to swing the front part open with a litte force.
+Next came the removing of all screws that hold the motor cables in place.
+At this part i checked the resitance with my multimeter between the left and right coals. (Measured at the litte open flat pieces left and right) and got infite resistance.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knife on tgauweiler</title>
+    <link>https://tgauweiler.github.io/tags/knife/</link>
+    <description>Recent content in Knife on tgauweiler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tgauweiler.github.io/tags/knife/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KnifeBlock</title>
+      <link>https://tgauweiler.github.io/posts/2018-01-17-knifeblock/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-01-17-knifeblock/</guid>
+      <description>Introduction After seeing some cool stuff done with epoxy i wanted to do something wood and epoxy. A knife block sounded like a doable idea.
+Building I found a damaged piece of wood and decided to close up the damaged parts with epoxy. The bottom part was really broken out, so i had to add some support wood to keep the epoxy inside.
+After the epoxy was dry i sanded the piece down until it was smooth.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cat on tgauweiler</title>
+    <link>https://tgauweiler.github.io/tags/cat/</link>
+    <description>Recent content in Cat on tgauweiler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jan 2018 20:31:44 +0100</lastBuildDate>
+    
+	<atom:link href="https://tgauweiler.github.io/tags/cat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CatTree</title>
+      <link>https://tgauweiler.github.io/posts/2018-01-17-cattree/</link>
+      <pubDate>Wed, 17 Jan 2018 20:31:44 +0100</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-01-17-cattree/</guid>
+      <description>Introduction After the cat utterly destroyed her old cat tree it was time to build a new better one.
+Building I found a suitable branch with a nice forking. First step was to remove all bark, which was very time consuming. After that i sanded the wood down to remove all hard edges and wiped it down with oil. Then i added a piece of wood as stand and we have our standing tree.</description>
+    </item>
+    
+  </channel>
+</rss>
