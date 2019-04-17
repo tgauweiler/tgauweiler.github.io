@@ -6,10 +6,21 @@
     <description>Recent content in Finished on tgauweiler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tgauweiler.github.io/tags/finished/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CD Player repair</title>
+      <link>https://tgauweiler.github.io/posts/2019-04-17-cdplayerrepair/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2019-04-17-cdplayerrepair/</guid>
+      <description>Introduction The old ROTEL RCD-971 had the problem of not opening the disc tray anymore. Because i could still hear the motor spinning inside, i suspected the belt transmission between motor and disk tray.
+Opening &amp;amp; Repair Opening the case was straight forward.
+ Remove the screws on the bottom and back of the case Remove the magnetic disk locking plate Eject the disk tray by spinning the black gear manually Remove the faceplate at the front Unscrew the cd player module from the case Gently unplug all cables to it Lift it up and pull it back gently out   Remove the disk tray by ejecting it, remove the stopper at the end and push the two plastic lashes at each side to unlock it   Remove the black cover over the gears by pushing the lash down and sliding the whole thing upwards  The square belt was still in place, but because age became to lose to unlock the magnet disk holder.</description>
+    </item>
     
     <item>
       <title>WasherRepair</title>
