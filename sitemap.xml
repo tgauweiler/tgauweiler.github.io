@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tgauweiler.github.io/posts/2019-04-25-legocablerepair/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tgauweiler.github.io/posts/2019-04-17-cdplayerrepair/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
@@ -62,13 +67,19 @@
   
   <url>
     <loc>https://tgauweiler.github.io/tags/finished/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tgauweiler.github.io/tags/knife/</loc>
     <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tgauweiler.github.io/tags/lego/</loc>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -85,7 +96,7 @@
   
   <url>
     <loc>https://tgauweiler.github.io/categories/repair/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
