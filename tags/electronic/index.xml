@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronic on tgauweiler</title>
+    <link>https://tgauweiler.github.io/tags/electronic/</link>
+    <description>Recent content in Electronic on tgauweiler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tgauweiler.github.io/tags/electronic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>USB Temperature Sensor</title>
+      <link>https://tgauweiler.github.io/posts/2018-07-11-usbtemp/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-07-11-usbtemp/</guid>
+      <description>Introduction To measure the room temperature with a PC an Arduino nano clone with a DS18B20 temperature was used.
+Build For building i used a raster PCB, mostly because for 2 components to design and etch a PCB is pretty overkill. The DS18B20 is a one wire sensor and only needed one extra resistor.
+Software The idea was to connect the sensor to a PC and use a simple python script to notify me over Slack if measured temperature gets to high.</description>
+    </item>
+    
+    <item>
+      <title>Zeroboy</title>
+      <link>https://tgauweiler.github.io/posts/2018-05-26-zeroboy/</link>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-05-26-zeroboy/</guid>
+      <description>Introduction The ZeroBoy is an old GameBoy Classic case with a Raspberry Pi Zero W inside There are many special parts for building this kind of project. I bought a board for the buttons, battery, HD display with HDMI cable and glass, audio amplifier, speaker, printed holder for the boards, charging board and various buttons.
+Build I used a case of a broken old GameBoy which was already pretty yellowed.</description>
+    </item>
+    
+    <item>
+      <title>Remote Relay</title>
+      <link>https://tgauweiler.github.io/posts/2017-02-03-remoterelay/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2017-02-03-remoterelay/</guid>
+      <description>Introduction I had the idea to switch a relay over wifi with an app on my smartphone. For this i needed some board with wifi support and at least one GPIO.
+So i bought a ESP8266 board in the ESP-01 variant. Mostly because it was so cheap, ~1€. Then i noticed, that programming it, wasn&amp;rsquo;t working as intended, because the chip needs around 250mW 3.3V to get running and the usb to serial converter wasn&amp;rsquo;t providing that much power.</description>
+    </item>
+    
+  </channel>
+</rss>

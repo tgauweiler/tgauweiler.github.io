@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="Description" content="tgauweiler / USB Temperature Sensor">
+    <title>tgauweiler / USB Temperature Sensor</title>
+    <link href="https://tgauweiler.github.io/css/style.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body>
+
+
+<article class="post">
+    <header class="post-header">
+        <h1 class="post-title"><a href="https://tgauweiler.github.io/" style="text-decoration:none;">tgauweiler</a> / USB Temperature Sensor</h1>
+        <time class="post-date" datetime="2018-07-11">2018-07-11</time>
+    </header>
+
+    
+
+<h2 id="introduction">Introduction</h2>
+
+<p>To measure the room temperature with a PC an Arduino nano clone with a DS18B20 temperature was used.</p>
+
+<h2 id="build">Build</h2>
+
+<p><img src="board.jpg" alt="Board" /></p>
+
+<p>For building i used a raster PCB, mostly because for 2 components to design and etch a PCB is pretty overkill.
+The DS18B20 is a one wire sensor and only needed one extra resistor.</p>
+
+<h2 id="software">Software</h2>
+
+<p>The idea was to connect the sensor to a PC and use a simple python script to notify me over Slack if measured temperature gets to high.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>This was a pretty straight forward project that worked directly out of the box.
+Only the Slack API took some time to figure out.</p>
+
+
+</article>
+
+</body>
+
+</html>

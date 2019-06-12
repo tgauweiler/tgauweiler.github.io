@@ -12,13 +12,13 @@
     
     
     <item>
-      <title>ESP01 programming board</title>
-      <link>https://tgauweiler.github.io/posts/2017-02-03-espboard/</link>
+      <title>Remote Relay</title>
+      <link>https://tgauweiler.github.io/posts/2017-02-03-remoterelay/</link>
       <pubDate>Fri, 03 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://tgauweiler.github.io/posts/2017-02-03-espboard/</guid>
-      <description>Introduction I did buy a ESP8266 board in the variant ESP-01. Mostly because it was so cheap. Then i noticed that programming it wasn&amp;rsquo;t working as intended, because the chip needs around 250mW 3.3V to get running and the usb to serial converter isnt providing that much docu. So I build the given circuit on a breadboard to provide enough power.
-Design own platine with Eagle But since that was pretty ugly I decided to build my own platine for it with eagle.</description>
+      <guid>https://tgauweiler.github.io/posts/2017-02-03-remoterelay/</guid>
+      <description>Introduction I had the idea to switch a relay over wifi with an app on my smartphone. For this i needed some board with wifi support and at least one GPIO.
+So i bought a ESP8266 board in the ESP-01 variant. Mostly because it was so cheap, ~1€. Then i noticed, that programming it, wasn&amp;rsquo;t working as intended, because the chip needs around 250mW 3.3V to get running and the usb to serial converter wasn&amp;rsquo;t providing that much power.</description>
     </item>
     
     <item>
