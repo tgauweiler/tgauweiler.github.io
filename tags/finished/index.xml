@@ -6,10 +6,30 @@
     <description>Recent content in Finished on tgauweiler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tgauweiler.github.io/tags/finished/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MacBook Air power supply</title>
+      <link>https://tgauweiler.github.io/posts/2019-06-06-applepower/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2019-06-06-applepower/</guid>
+      <description>Introduction My macbook power supply cable got the typical apple problem and cracked open at the connector.
+For a long time I helped myself with some electronic tape, but after my macbook did some strange sounds, depending on how the cable was lying, it was time to replace it.
+Replacement Because I only heard negative things about knockoff power supplies, I decided to fix my original one. For this I ordered a fitting replacement cable for ~12€.</description>
+    </item>
+    
+    <item>
+      <title>Kitche Scale Battery Upgrade</title>
+      <link>https://tgauweiler.github.io/posts/2019-05-26-kitchenscale/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2019-05-26-kitchenscale/</guid>
+      <description>Introduction The kitchen scale ate batteries up in no time and these button style ones are pretty pricy. Also if the batteries get low, the scale can&amp;rsquo;t measure heavier stuff and just throws an error. So I opened it up and noticed that both batteries are wired in parallel and are providing 3V. This lead me to the plan, to replace both with two 1.5V AA batteries wired in series.</description>
+    </item>
     
     <item>
       <title>Lego Cable Repair</title>
@@ -52,7 +72,7 @@ At this part i checked the resitance with my multimeter between the left and rig
       <guid>https://tgauweiler.github.io/posts/2018-07-11-usbtemp/</guid>
       <description>Introduction To measure the room temperature with a PC an Arduino nano clone with a DS18B20 temperature was used.
 Build For building i used a raster PCB, mostly because for 2 components to design and etch a PCB is pretty overkill. The DS18B20 is a one wire sensor and only needed one extra resistor.
-Software The idea was to connect the sensor to a PC and use a simple python script to notify me over Slack if measured temperature gets to high.</description>
+Software The idea was to connect the sensor to a PC and use a simple python script to notify me over Slack if the measured temperature gets to high or to low.</description>
     </item>
     
     <item>
