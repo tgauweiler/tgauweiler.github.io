@@ -6,10 +6,23 @@
     <description>Recent content in Electronic on tgauweiler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tgauweiler.github.io/tags/electronic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mercedes key repair</title>
+      <link>https://tgauweiler.github.io/posts/2019-10-19-mercedeskey/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2019-10-19-mercedeskey/</guid>
+      <description>Introduction An old mercedes key refused to open the car and the litte led wouldn&amp;rsquo;t blink.
+Replacement The first step was to replace the batteries and test again.
+This didn&amp;rsquo;t help, so the next step was to remove the PCB board.
+The board came out with two loose parts (bad) and a broken plastic spacer (not so bad).
+The parts (one button, one signal modulation component?) did fall off.</description>
+    </item>
     
     <item>
       <title>MacBook Air power supply</title>
@@ -23,7 +36,17 @@ Replacement Because I only heard negative things about knockoff power supplies, 
     </item>
     
     <item>
-      <title>Kitche Scale Battery Upgrade</title>
+      <title>MacBook Air power supply</title>
+      <link>https://tgauweiler.github.io/posts/2019-09-29-sghdownloader/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2019-09-29-sghdownloader/</guid>
+      <description> Introduction Had to tape in the not big enough SIM card.
+Replacement Conclusion </description>
+    </item>
+    
+    <item>
+      <title>Kitchen Scale Battery Upgrade</title>
       <link>https://tgauweiler.github.io/posts/2019-05-26-kitchenscale/</link>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
       
