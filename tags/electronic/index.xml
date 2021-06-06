@@ -12,13 +12,23 @@
     
     
     <item>
-      <title>Dryer AEG</title>
-      <link>https://tgauweiler.github.io/posts/2021-06-06-dryeraeg/</link>
+      <title>AEG Dryer Bearing</title>
+      <link>https://tgauweiler.github.io/posts/2021-06-06-aegdryerbearing/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tgauweiler.github.io/posts/2021-06-06-dryeraeg/</guid>
+      <guid>https://tgauweiler.github.io/posts/2021-06-06-aegdryerbearing/</guid>
       <description>Introduction An AEG dryer was doing strange sounds while turning the barrel. During testing the drum got stock and didn&amp;rsquo;t turn anymore.
 Repair Opening  Remove the water tank and 3 screws in the front. Remove two screws in the back to remove the top cover. Remove the side panel by removing two screws on the top and 3 in the back.  Removing the motor  Remove the air flow cover in the back.</description>
+    </item>
+    
+    <item>
+      <title>Miele Dryer Bearing</title>
+      <link>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</guid>
+      <description>Introduction Our Miele Novotronic T654C dryer was only running for some seconds before stopping and showing &amp;ldquo;Clean Airways&amp;rdquo;. Needless to say this didn&amp;rsquo;t help.
+Repair  Open the case by removing the screws in the front and in the back. Notice in a test run that the drum is only twitching.   Suspect a broken starting capacitor, replace, didn&amp;rsquo;t fix it.   Remove all the things to get to the motor.</description>
     </item>
     
     <item>

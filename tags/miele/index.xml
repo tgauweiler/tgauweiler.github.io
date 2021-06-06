@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>miele on tgauweiler</title>
+    <link>https://tgauweiler.github.io/tags/miele/</link>
+    <description>Recent content in miele on tgauweiler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tgauweiler.github.io/tags/miele/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miele Dryer Bearing</title>
+      <link>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</guid>
+      <description>Introduction Our Miele Novotronic T654C dryer was only running for some seconds before stopping and showing &amp;ldquo;Clean Airways&amp;rdquo;. Needless to say this didn&amp;rsquo;t help.
+Repair  Open the case by removing the screws in the front and in the back. Notice in a test run that the drum is only twitching.   Suspect a broken starting capacitor, replace, didn&amp;rsquo;t fix it.   Remove all the things to get to the motor.</description>
+    </item>
+    
+  </channel>
+</rss>
