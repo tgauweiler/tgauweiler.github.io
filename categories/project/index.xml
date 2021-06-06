@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project on tgauweiler</title>
+    <title>project on tgauweiler</title>
     <link>https://tgauweiler.github.io/categories/project/</link>
-    <description>Recent content in Project on tgauweiler</description>
+    <description>Recent content in project on tgauweiler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
@@ -21,7 +21,8 @@
 Replacement The first step was to replace the batteries and test again.
 This didn&amp;rsquo;t help, so the next step was to remove the PCB board.
 The board came out with two loose parts (bad) and a broken plastic spacer (not so bad).
-The parts (one button, one signal modulation component?) did fall off.</description>
+The parts (one button, one signal modulation component?) did fall off.
+The bottom of the PCB did look normal, last time the little spule and the IR component broke off.</description>
     </item>
     
     <item>
@@ -62,7 +63,7 @@ Software The idea was to connect the sensor to a PC and use a simple python scri
       
       <guid>https://tgauweiler.github.io/posts/2018-05-26-zeroboy/</guid>
       <description>Introduction The ZeroBoy is an old GameBoy Classic case with a Raspberry Pi Zero W inside There are many special parts for building this kind of project. I bought a board for the buttons, battery, HD display with HDMI cable and glass, audio amplifier, speaker, printed holder for the boards, charging board and various buttons.
-Build I used a case of a broken old GameBoy which was already pretty yellowed.</description>
+Build I used a case of a broken old GameBoy which was already pretty yellowed. Used my Dremel to cut out some plastic to make everything fit inside.</description>
     </item>
     
     <item>

@@ -18,64 +18,44 @@
         <time class="post-date" datetime="2017-02-03">2017-02-03</time>
     </header>
 
-    
-
-<h2 id="introduction">Introduction</h2>
-
+    <h2 id="introduction">Introduction</h2>
 <p>I had the idea to switch a relay over wifi with an app on my smartphone.
 For this i needed some board with wifi support and at least one GPIO.</p>
-
 <p>So i bought a ESP8266 board in the <a href="http://www.esp8266.com/wiki/doku.php?id=esp8266-module-family#esp-01">ESP-01</a> variant. Mostly because it was so cheap, ~1€.
 Then i noticed, that programming it, wasn&rsquo;t working as intended, because the chip needs around 250mW 3.3V to get running and the usb to serial converter wasn&rsquo;t providing that much <a href="https://github.com/esp8266/Arduino/blob/master/doc/boards.md#generic-esp8266-modules">power</a>.
 So I build the given <a href="https://github.com/esp8266/Arduino/blob/master/doc/boards.rst#esp-to-serial">circuit</a> on a breadboard to provide enough power.</p>
-
 <h2 id="designing-platine-with-eagle">Designing platine with Eagle</h2>
-
 <p>But since that was pretty ugly I decided to build my own platine for it with <a href="https://www.autodesk.de/products/eagle/free-download">Eagle</a>.
-<img src="breadboard.jpg" alt="Breadboard" />
+<img src="breadboard.jpg" alt="Breadboard">
 First i crated the electrical schematic.
-<img src="layout.png" alt="Eagle layout" /><br />
+<img src="layout.png" alt="Eagle layout"><br>
 And routed everything as nice as possible.
-<img src="platine.png" alt="Eagle platine" />
+<img src="platine.png" alt="Eagle platine">
 I used the toner transfer method to get the schematic on the platine.
-<img src="print.png" alt="Eagle print" />
-<img src="transfered.jpg" alt="Toner transfer" />
+<img src="print.png" alt="Eagle print">
+<img src="transfered.jpg" alt="Toner transfer">
 Etched it and removed the toner with aceton.
-<img src="etched.jpg" alt="Etched" /></p>
-
+<img src="etched.jpg" alt="Etched"></p>
 <p>Added the schematic to the top.
 Drilled all holes and broke a drill.. Found out later that you can just make the pads bigger.</p>
-
-<p><img src="drilling1.jpg" alt="Drilling1" />
-<img src="drilling2.jpg" alt="Drilling2" />
-<img src="drilling3.jpg" alt="Drilling3" /></p>
-
+<p><img src="drilling1.jpg" alt="Drilling1">
+<img src="drilling2.jpg" alt="Drilling2">
+<img src="drilling3.jpg" alt="Drilling3"></p>
 <p>Added the electrical parts.</p>
-
-<p><img src="parts1.jpg" alt="Parts1" />
-<img src="parts2.jpg" alt="Parts2" /></p>
-
+<p><img src="parts1.jpg" alt="Parts1">
+<img src="parts2.jpg" alt="Parts2"></p>
 <p>Soldered everything in place.</p>
-
-<p><img src="solder.jpg" alt="Solder" /></p>
-
+<p><img src="solder.jpg" alt="Solder"></p>
 <p>Found an old plastic box that has enough space to fit everything inside.</p>
-
-<p><img src="case.jpg" alt="Case" /></p>
-
-<h2 id="software-esp">Software - ESP</h2>
-
+<p><img src="case.jpg" alt="Case"></p>
+<h2 id="software---esp">Software - ESP</h2>
 <p>The software on the ESP is pretty simple.
 It just connects to a predefined Wifi network and waits for a TCP connection.
 If a matching command is received, the GPIO port is pulled to ground and switches the relay for two seconds.</p>
-
-<h2 id="software-android">Software - Android</h2>
-
+<h2 id="software---android">Software - Android</h2>
 <p>Next i created a simple Android App to trigger the relay with my phone in the same Wifi network.
-<img src="android.png" alt="App" /></p>
-
+<img src="android.png" alt="App"></p>
 <h2 id="conclusion">Conclusion</h2>
-
 <p>Designing the board with Eagle was harder then expected, mostly to get the routing as nice as possible.
 Also the power supply to the ESP has to be solid or you get unexpected behavior.
 Creating an Android App is in the beginning tricky, just to get an empty App with two buttons.
