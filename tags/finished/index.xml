@@ -22,16 +22,6 @@ Repair Opening  Remove the water tank and 3 screws in the front. Remove two scre
     </item>
     
     <item>
-      <title>Miele Dryer Bearing</title>
-      <link>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</guid>
-      <description>Introduction Our Miele Novotronic T654C dryer was only running for some seconds before stopping and showing &amp;ldquo;Clean Airways&amp;rdquo;. Needless to say this didn&amp;rsquo;t help.
-Repair  Open the case by removing the screws in the front and in the back. Notice in a test run that the drum is only twitching.   Suspect a broken starting capacitor, replace, didn&amp;rsquo;t fix it.   Remove all the things to get to the motor.</description>
-    </item>
-    
-    <item>
       <title>Kärcher</title>
       <link>https://tgauweiler.github.io/posts/2021-04-10-kaecher/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
@@ -95,6 +85,16 @@ Opening &amp;amp; Repair The new cable is a little bit thinner then the original
       <description>Introduction The old ROTEL RCD-971 had the problem of not opening the disc tray anymore. Because i could still hear the motor spinning inside, i suspected the belt transmission between motor and disk tray.
 Opening &amp;amp; Repair Opening the case was straight forward.
  Remove the screws on the bottom and back of the case Remove the magnetic disk locking plate Eject the disk tray by spinning the black gear manually Remove the faceplate at the front Unscrew the cd player module from the case Gently unplug all cables to it Lift it up and pull it back gently out   Remove the disk tray by ejecting it, remove the stopper at the end and push the two plastic lashes at each side to unlock it   Remove the black cover over the gears by pushing the lash down and sliding the whole thing upwards  The square belt was still in place, but because age became to lose to unlock the magnet disk holder.</description>
+    </item>
+    
+    <item>
+      <title>Miele Dryer Bearing</title>
+      <link>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</guid>
+      <description>Introduction Our Miele Novotronic T654C dryer was only running for some seconds before stopping and showing &amp;ldquo;Clean Airways&amp;rdquo;. Needless to say this didn&amp;rsquo;t help.
+Repair  Open the case by removing the screws in the front and in the back. Notice in a test run that the drum is only twitching.   Suspect a broken starting capacitor, replace, didn&amp;rsquo;t fix it.   Remove all the things to get to the motor.</description>
     </item>
     
     <item>

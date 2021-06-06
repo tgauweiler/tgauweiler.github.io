@@ -22,16 +22,6 @@ Repair Opening  Remove the water tank and 3 screws in the front. Remove two scre
     </item>
     
     <item>
-      <title>Miele Dryer Bearing</title>
-      <link>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</link>
-      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</guid>
-      <description>Introduction Our Miele Novotronic T654C dryer was only running for some seconds before stopping and showing &amp;ldquo;Clean Airways&amp;rdquo;. Needless to say this didn&amp;rsquo;t help.
-Repair  Open the case by removing the screws in the front and in the back. Notice in a test run that the drum is only twitching.   Suspect a broken starting capacitor, replace, didn&amp;rsquo;t fix it.   Remove all the things to get to the motor.</description>
-    </item>
-    
-    <item>
       <title>Kärcher</title>
       <link>https://tgauweiler.github.io/posts/2021-04-10-kaecher/</link>
       <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
@@ -74,6 +64,16 @@ Replacement Because I only heard negative things about knockoff power supplies, 
       
       <guid>https://tgauweiler.github.io/posts/2019-05-26-kitchenscale/</guid>
       <description>Introduction The kitchen scale ate batteries up in no time and these button style ones are pretty pricy. Also if the batteries get low, the scale can&amp;rsquo;t measure heavier stuff and just throws an error. So I opened it up and noticed that both batteries are wired in parallel and are providing 3V. This lead me to the plan, to replace both with two 1.5V AA batteries wired in series.</description>
+    </item>
+    
+    <item>
+      <title>Miele Dryer Bearing</title>
+      <link>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2018-12-02-mieledryerbearing/</guid>
+      <description>Introduction Our Miele Novotronic T654C dryer was only running for some seconds before stopping and showing &amp;ldquo;Clean Airways&amp;rdquo;. Needless to say this didn&amp;rsquo;t help.
+Repair  Open the case by removing the screws in the front and in the back. Notice in a test run that the drum is only twitching.   Suspect a broken starting capacitor, replace, didn&amp;rsquo;t fix it.   Remove all the things to get to the motor.</description>
     </item>
     
     <item>
