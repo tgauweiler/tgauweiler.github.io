@@ -6,10 +6,31 @@
     <description>Recent content in project on tgauweiler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tgauweiler.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dryer AEG</title>
+      <link>https://tgauweiler.github.io/posts/2021-06-06-dryeraeg/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2021-06-06-dryeraeg/</guid>
+      <description>Introduction An AEG dryer was doing strange sounds while turning the barrel. During testing the drum got stock and didn&amp;rsquo;t turn anymore.
+Repair Opening  Remove the water tank and 3 screws in the front. Remove two screws in the back to remove the top cover. Remove the side panel by removing two screws on the top and 3 in the back.  Removing the motor  Remove the air flow cover in the back.</description>
+    </item>
+    
+    <item>
+      <title>Kärcher</title>
+      <link>https://tgauweiler.github.io/posts/2021-04-10-kaecher/</link>
+      <pubDate>Sat, 10 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tgauweiler.github.io/posts/2021-04-10-kaecher/</guid>
+      <description>Introduction After the winter our Kärcher wasn&amp;rsquo;t working anymore. Best guess was that not all water was drained and the cold damaged something.
+Repair  Opening is straight forward. The motor screws also hold in the oil!  One compression cylinder did some damage on its plastic duct and damaged the seal around it.
+Replacing it was straight forward, but it turns out the main problem was the the pressure line after the motor.</description>
+    </item>
     
     <item>
       <title>Mercedes key repair</title>
